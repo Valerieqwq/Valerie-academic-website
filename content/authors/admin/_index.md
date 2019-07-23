@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Siyu Lai
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Faculty of Psychology, Beijing Normal University
+  url: "http://psych.bnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Siyu Lai, currently an undergraduate student in Faculty of Psychology, BNU. My research interest lies about cognitive neuroscience, like memory, attention and perception. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- memory
+- attention
+- perception
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Psychology
+    institution: Beijing Normal University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,32 +38,33 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:201711061220@mail.bnu.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Valerieqwq
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an undergraduate student majored in Psychology in Beijing Normal University. Broadly, my research interests involve the study of mechanisms that how we learn and remember everything, as well as the general cognitive mechanisms underlined our daily activities. In addition, I have a particular interest in aesthetic perceptions of  art, music or any object that can give rise to aesthetic judgments and its neural bases. Also, I am interested in how to make human feel better and really enjoy their lives, like studying the roles individual differences variables (e.g., optimism, perfectionism, coping) play in positive and negative mental health. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Currently I work as a research assistant supervised by Professor [Gui Xue](https://scholar.google.com.hk/citations?user=Gyms-jgAAAAJ&hl=zh-CN&oi=ao), here we use EEG and other brain imaging methods to explore the neural mechanism underlined human memory. Also, I am supervised by Professor [Ke Zhou](https://scholar.google.com.hk/citations?user=QSngYiAAAAAJ&hl=zh-CN&oi=ao) doing research about how attention may alter our perception of numerosity and its neural mechanism. Except working in the lab in BNU, I keep in touch with another professor, [Edward C. Chang](https://scholar.google.com.hk/citations?hl=zh-CN&user=Jcy5PMMAAAAJ), who is a professor in Department of Psychology in University of Michigan, we have been working with a project about how negative affects can benefit people and have positive influences.
